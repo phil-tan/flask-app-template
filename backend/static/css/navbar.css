@@ -1,0 +1,32 @@
+/* .navbar-lewagon {
+//   justify-content: space-between;
+//   background: green;
+// }
+
+// .navbar-lewagon .navbar-collapse {
+//   flex-grow: 0;
+// }
+
+// .navbar-lewagon .navbar-brand img {
+//   width: 40px;
+// } */
+
+
+.navbar-pt {
+  justify-content: space-between !important;
+  background: #0ead69;
+}
+
+.navbar-pt .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-pt .navbar-brand img {
+  height: 40px;
+}
+
+.mini-nav {
+  background-color:cadetblue;
+  margin: 0 0 0 0;
+  padding: 5px;
+}
